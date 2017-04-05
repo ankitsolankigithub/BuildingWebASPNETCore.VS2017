@@ -1,0 +1,12 @@
+{
+    "Mailsettings": {
+        "ToAddress": "asolanki@icct.com"
+    },
+    "ConectionString": {
+        "TheWorldDbContection": "Server=(localdb)\\v11.0;Database=TheWorldDb;Trusted_Connection=true;multipleactiveresultsets=true;"
+    },
+    "Keys": {
+        "BingKey": "USESYSTEMVARIABLE"
+    }
+
+}
